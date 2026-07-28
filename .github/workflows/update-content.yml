@@ -22,7 +22,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install feedparser==6.0.11 requests==2.32.4
 
       - name: Fetch news and releases
         run: python scripts/update_content.py
