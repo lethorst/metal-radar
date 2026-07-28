@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b0b0c">
+  <meta name="description" content="Personlig nyhets- og utgivelsesapp for heavy metal.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon-192.png">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="stylesheet" href="./style.css">
+  <title>Metal Radar</title>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">PERSONLIG METALOVERVÅKING</p>
+      <h1>METAL <span>RADAR</span></h1>
+    </div>
+    <button id="installBtn" class="ghost hidden" type="button">Installer</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div>
+        <p id="todayLabel" class="muted"></p>
+        <h2>Alt tungt.<br>På ett sted.</h2>
+        <p class="hero-copy">Nyheter, nye plater og dine favorittband – uten annonser og uten innlogging.</p>
+      </div>
+      <div class="radar" aria-hidden="true"><i></i><b></b><em></em></div>
+    </section>
+
+    <nav class="tabs" aria-label="Hovedmeny">
+      <button class="tab active" data-tab="news">Nyheter</button>
+      <button class="tab" data-tab="releases">Utgivelser</button>
+      <button class="tab" data-tab="favorites">Favoritter</button>
+      <button class="tab" data-tab="settings">Innstillinger</button>
+    </nav>
+
+    <section id="newsPanel" class="panel active">
+      <div class="section-head">
+        <div><p class="eyebrow">SISTE NYTT</p><h3>Metalnyheter</h3></div>
+        <span id="newsCount" class="count"></span>
+      </div>
+      <div class="controls">
+        <input id="newsSearch" type="search" placeholder="Søk etter band eller sak">
+        <select id="sourceFilter"><option value="">Alle kilder</option></select>
+      </div>
+      <div id="newsList" class="card-list"></div>
+      <p id="newsEmpty" class="empty hidden">Ingen saker passer med filtreringen.</p>
+    </section>
+
+    <section id="releasesPanel" class="panel">
+      <div class="section-head">
+        <div><p class="eyebrow">PLATEKALENDER</p><h3>Nye og kommende</h3></div>
+        <span id="releaseCount" class="count"></span>
+      </div>
+      <div class="controls">
+        <input id="releaseSearch" type="search" placeholder="Søk etter artist eller album">
+        <select id="releasePeriod">
+          <option value="all">Alle datoer</option>
+          <option value="past30">Siste 30 dager</option>
+          <option value="next30">Neste 30 dager</option>
+          <option value="next90">Neste 90 dager</option>
+        </select>
+      </div>
+      <div id="releaseList" class="release-grid"></div>
+      <p id="releaseEmpty" class="empty hidden">Ingen utgivelser passer med filtreringen.</p>
+    </section>
+
+    <section id="favoritesPanel" class="panel">
+      <div class="section-head">
+        <div><p class="eyebrow">DIN SAMLING</p><h3>Lagret for senere</h3></div>
+      </div>
+      <div class="favorite-section">
+        <h4>Favorittband</h4>
+        <form id="favoriteBandForm" class="add-row">
+          <input id="favoriteBandInput" type="text" placeholder="Legg til band">
+          <button type="submit">Legg til</button>
+        </form>
+        <div id="favoriteBands" class="chips"></div>
+      </div>
+      <div class="favorite-section">
+        <h4>Lagrede nyheter</h4>
+        <div id="savedNews" class="card-list compact"></div>
+      </div>
+      <div class="favorite-section">
+        <h4>Plater jeg vil høre</h4>
+        <div id="savedReleases" class="release-grid"></div>
+      </div>
+    </section>
+
+    <section id="settingsPanel" class="panel">
+      <div class="section-head">
+        <div><p class="eyebrow">TILPASS</p><h3>Innstillinger</h3></div>
+      </div>
+      <div class="settings-card">
+        <label class="switch-row">
+          <span><strong>Prioriter favorittband</strong><small>Vis saker om favorittene øverst</small></span>
+          <input id="prioritizeFavorites" type="checkbox" checked>
+        </label>
+        <label class="switch-row">
+          <span><strong>Skjul leste saker</strong><small>Fjerner artikler du har åpnet</small></span>
+          <input id="hideRead" type="checkbox">
+        </label>
+        <button id="refreshBtn" class="wide-button" type="button">Last inn data på nytt</button>
+        <button id="clearBtn" class="danger-button" type="button">Slett lokale favoritter og historikk</button>
+        <p class="fineprint">Alle personlige valg lagres kun lokalt i nettleseren på denne enheten.</p>
+      </div>
+      <div class="status-card">
+        <p><strong>Sist oppdatert:</strong> <span id="lastUpdated">–</span></p>
+        <p><strong>Datakilder:</strong> RSS-feeder og MusicBrainz</p>
+        <p><strong>Kostnad:</strong> 0 kr</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>METAL RADAR</span>
+    <small>Bygget for personlig bruk</small>
+  </footer>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
