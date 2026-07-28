@@ -1,4 +1,3 @@
-</> Python
 #!/usr/bin/env python3
 """Fetch metal news from RSS and upcoming metal releases from MusicBrainz.
 Designed for GitHub Actions and personal, non-commercial use.
