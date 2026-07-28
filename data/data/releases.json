@@ -1,0 +1,13 @@
+</> 
+[
+  {
+    "id": "demo-release",
+    "artist": "Eksempelband",
+    "title": "Første testutgivelse",
+    "releaseDate": "2026-08-15",
+    "type": "Album",
+    "genre": "Heavy Metal",
+    "source": "Eksempel",
+    "url": "https://musicbrainz.org/"
+  }
+]
