@@ -1,12 +1,902 @@
-</> JSON
 [
   {
-    "id": "welcome-1",
-    "title": "Velkommen til Metal Radar",
-    "summary": "Denne testsaken erstattes av ferske metalnyheter når oppdateringen kjøres.",
-    "source": "Metal Radar",
-    "published": "2026-07-28",
-    "url": "https://github.com/",
+    "id": "0ea18eeaddc1cc2e5b",
+    "title": "FOZZY Releases Music Video For Latest Single 'I Know Evil'",
+    "summary": "FOZZY, the band featuring wrestling superstar Chris Jericho and STUCK MOJO mastermind Rich \"The Duke\" Ward, has released a music video for its latest single, \"I Know Evil\". The clip was filmed on the road by James Davies and Todd Crawford, and was edited by Ke…",
+    "source": "Blabbermouth",
+    "published": "2026-07-28T12:54:53+00:00",
+    "url": "https://blabbermouth.net/news/fozzy-releases-music-video-for-latest-single-i-know-evil",
+    "artist": ""
+  },
+  {
+    "id": "174628d7f1dd6a9125",
+    "title": "ALEX VAN HALEN And DAVID LEE ROTH To Reunite At TEDxFargo Event This Thursday",
+    "summary": "Former VAN HALEN members David Lee Roth and Alex Van Halen will join acclaimed artist Robert Vargas during the TEDxFargo event this Thursday, July 30 in Fargo, North Dakota. Roth and Van Halen are not expected to perform at the event which is being promoted by…",
+    "source": "Blabbermouth",
+    "published": "2026-07-28T12:40:42+00:00",
+    "url": "https://blabbermouth.net/news/alex-van-halen-and-david-lee-roth-to-reunite-at-tedxfargo-event-this-thursday",
+    "artist": ""
+  },
+  {
+    "id": "3e22bdc682092d886f",
+    "title": "Watch: SAVATAGE Performs With Orchestra In Pompeii",
+    "summary": "On July 27, acclaimed progressive metal pioneers SAVATAGE played at the Amphitheater of Pompeii, one of the oldest surviving Roman amphitheaters in Pompei, Italy. The band played a spectacular show, accompanied live by an orchestra, an arrangement that made th…",
+    "source": "Blabbermouth",
+    "published": "2026-07-28T12:06:26+00:00",
+    "url": "https://blabbermouth.net/news/watch-savatage-performs-with-orchestra-in-pompeii",
+    "artist": ""
+  },
+  {
+    "id": "41095837493b6f4736",
+    "title": "WATCH: DRAIN Cover SICK OF IT ALL Classic \"It's Clobberin' Time\" at Warped Tour",
+    "summary": "The Santa Cruz hardcore band paid tribute to the late Lou Koller just days after his passing. The post WATCH: DRAIN Cover SICK OF IT ALL Classic \"It's Clobberin' Time\" at Warped Tour appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T20:59:44+00:00",
+    "url": "https://metalinjection.net/news/watch-drain-cover-sick-of-it-all-classic-its-clobberin-time-at-warped-tour",
+    "artist": ""
+  },
+  {
+    "id": "31479fbb52ccea9a89",
+    "title": "BRET MICHAELS Instructed By Doctors To Take 3 To 4 Weeks Of Post-Op Recuperation Following Kidney Stone Surgery",
+    "summary": "POISON frontman Bret Michaels, currently on his \"Live & Amplified\" solo tour, experienced severe kidney pain following his recent performance honoring our military heroes and their families at Fairchild Air Force Base in Spokane, Washington. On Sunday, July 19…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T20:57:24+00:00",
+    "url": "https://blabbermouth.net/news/bret-michaels-instructed-by-doctors-to-take-3-to-4-weeks-of-post-op-recuperation-following-kidney-stone-surgery",
+    "artist": ""
+  },
+  {
+    "id": "f0457ea9f0900b5326",
+    "title": "COAL CHAMBER And DEVILDRIVER Frontman DEZ FAFARA: 'They Found A Tumor In My Head' Almost Two Years Ago",
+    "summary": "In a new interview with The Garza Podcast, hosted by SUICIDE SILENCE guitarist Chris Garza, DEVILDRIVER and COAL CHAMBER frontman Dez Fafara offered an update on his health, two years after COAL CHAMBER canceled a U.S. tour when he suffered a blackout and vert…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T20:42:12+00:00",
+    "url": "https://blabbermouth.net/news/coal-chamber-and-devildriver-frontman-dez-fafara-they-found-a-tumor-in-my-head-almost-two-years-ago",
+    "artist": ""
+  },
+  {
+    "id": "e92e15965d0600fbed",
+    "title": "DEAD POET SOCIETY Announce Co-Headlining Tour With HONEY REVENGE",
+    "summary": "Hunny and Broadside are coming along as support. The post DEAD POET SOCIETY Announce Co-Headlining Tour With HONEY REVENGE appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T20:20:37+00:00",
+    "url": "https://metalinjection.net/tour-dates/dead-poet-society-announce-co-headlining-tour-with-honey-revenge",
+    "artist": ""
+  },
+  {
+    "id": "7d2c22ac2316809371",
+    "title": "THE SMASHING PUMPKINS Celebrate LOLLAPALOOZA Homecoming With 'Pumpkinpalooza'",
+    "summary": "This Friday, July 31, the iconic, Grammy Award-winning rock band THE SMASHING PUMPKINS will headline their hometown's famed Lollapalooza. The momentous event marks the band's long-awaited return to the festival for the first time since they appeared on its ori…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T19:24:17+00:00",
+    "url": "https://blabbermouth.net/news/the-smashing-pumpkins-celebrate-lollapalooza-homecoming-with-pumpkinpalooza",
+    "artist": ""
+  },
+  {
+    "id": "6c45ce13475e31945b",
+    "title": "TOM KEIFER: Writing Songs 'Always Starts With A Lyric For Me'",
+    "summary": "In a new interview with Jacky BamBam of the 93.3 WMMR radio station, CINDERELLA frontman Tom Keifer talked about his songwriting process. He said (as transcribed by BLABBERMOUTH.NET): \"Writing always starts with a lyric for me. I know a lot of people think it'…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T19:00:21+00:00",
+    "url": "https://blabbermouth.net/news/tom-keifer-writing-songs-always-starts-with-a-lyric-for-me",
+    "artist": ""
+  },
+  {
+    "id": "3242e650cb3b2ff1ee",
+    "title": "AARON STAINTHORPE Talks 'Heartbreaking' Dismissal From MY DYING BRIDE And Formation Of TOWARDS THE SINISTER",
+    "summary": "By David E. Gehlke Unceremoniously dismissed in 2025 from the band he co-founded and fronted for 35 years, former MY DYING BRIDE singer Aaron Stainthorpe has returned with TOWARDS THE SINISTER, a new project featuring three of his ex-bandmates, Calvin Robertsh…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T18:07:51+00:00",
+    "url": "https://blabbermouth.net/features/aaron-stainthorpe-talks-heartbreaking-dismissal-from-my-dying-bride-and-formation-of-towards-the-sinister",
+    "artist": ""
+  },
+  {
+    "id": "e044372beda488316b",
+    "title": "PRIMUS Shares Music Video For 'The Ol' Grizz' From 'A Handful Of Nuggs' EP",
+    "summary": "PRIMUS has released the official Cage Claypool-directed music video for \"The Ol' Grizz\", a song from the band's \"A Handful Of Nuggs\" EP, which came out in May. \"The Ol' Grizz\" is among the first new studio recordings to feature drummer John Hoffman. \"The Ol' G…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T17:39:20+00:00",
+    "url": "https://blabbermouth.net/news/primus-shares-music-video-for-the-ol-grizz-from-a-handful-of-nuggs-ep",
+    "artist": ""
+  },
+  {
+    "id": "d7cde57e23224dc3ae",
+    "title": "MONOLORD Drop New Live Video For 70s-Inspired Track \"Iodine\"",
+    "summary": "It doesn't sound very 70s at all, though. The post MONOLORD Drop New Live Video For 70s-Inspired Track \"Iodine\" appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T17:34:41+00:00",
+    "url": "https://metalinjection.net/new-music/monolord-drop-new-live-video-for-70s-inspired-track-iodine",
+    "artist": ""
+  },
+  {
+    "id": "e92da5ed6807442fab",
+    "title": "TONY IOMMI Teases New Solo Music; Official Announcement Expected On Wednesday",
+    "summary": "Legendary BLACK SABBATH guitarist Tony Iommi is expected to reveal the first details of his long-in-the-works new solo album on Wednesday, July 29. Iommi will discuss his new solo music during a YouTube livestream on July 29 at 7:30 a.m. PDT / 10:30 a.m. EDT /…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T17:16:58+00:00",
+    "url": "https://blabbermouth.net/news/tony-iommi-teases-new-solo-music-official-announcement-expected-on-wednesday",
+    "artist": ""
+  },
+  {
+    "id": "183c54b9e730be6d1f",
+    "title": "Founding SAVATAGE Bassist KEITH COLLINS Is Suffering From Dementia",
+    "summary": "A GoFundMe campaign has been launched to help founding SAVATAGE bassist Keith Collins, who is battling dementia. Dementia is the loss of cognitive functioning — thinking, remembering, and reasoning — and behavioral abilities to such an extent that it interfere…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T16:57:35+00:00",
+    "url": "https://blabbermouth.net/news/founding-savatage-bassist-keith-collins-is-suffering-from-dementia",
+    "artist": ""
+  },
+  {
+    "id": "c18c47a74034ff779f",
+    "title": "Watch: NEUROSIS Play First Show Since 2019, First Live Performance With Aaron Turner",
+    "summary": "The new lineup made their live debut at this past weekend's Fire in the Mountains festival. The post Watch: NEUROSIS Play First Show Since 2019, First Live Performance With Aaron Turner appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T16:46:27+00:00",
+    "url": "https://metalinjection.net/news/watch-neurosis-play-first-show-since-2019",
+    "artist": ""
+  },
+  {
+    "id": "8f89dcc636d7abfe76",
+    "title": "LISTEN: SHERI MOON ZOMBIE Releases Anti-AI Debut Song \"I Love My Robot\" With ROB ZOMBIE-Directed Video",
+    "summary": "Everybody's favorite husband and wife team of spooky collaborators drop their latest work. The post LISTEN: SHERI MOON ZOMBIE Releases Anti-AI Debut Song \"I Love My Robot\" With ROB ZOMBIE-Directed Video appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T15:38:29+00:00",
+    "url": "https://metalinjection.net/news/sheri-moon-zombie-song-i-love-my-robot-rob-zombie-video",
+    "artist": ""
+  },
+  {
+    "id": "61b48da91a9fdfeef4",
+    "title": "FAITH NO MORE Return, Announce Tour Dates With SYSTEM OF A DOWN",
+    "summary": "Book your flight to Australia The post FAITH NO MORE Return, Announce Tour Dates With SYSTEM OF A DOWN appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-27T14:45:20+00:00",
+    "url": "https://metalinjection.net/tour-dates/faith-no-more-system-of-a-down-tour-2027",
+    "artist": ""
+  },
+  {
+    "id": "79c3effd5baf3a8a9f",
+    "title": "ROB ZOMBIE's Wife SHERI MOON ZOMBIE Releases Debut Single And Music Video, 'I Love My Robot'",
+    "summary": "Cult icon, actress, designer, and longtime horror favorite Sheri Moon Zombie — wife of vocalist, film director, screenwriter and film producer Rob Zombie — expands her creative universe today with the release of her debut single and music video, \"I Love My Rob…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T14:29:40+00:00",
+    "url": "https://blabbermouth.net/news/rob-zombies-wife-sheri-moon-zombie-releases-debut-single-and-music-video-i-love-my-robot",
+    "artist": ""
+  },
+  {
+    "id": "2df1a263d4dc383461",
+    "title": "Former BURY YOUR DEAD Guitarist ERIC ELLIS Returns With His New Band ELLIS",
+    "summary": "After more than a decade away from the spotlight, former BURY YOUR DEAD guitarist Eric Ellis has officially returned with his new band, ELLIS, releasing a brand-new music video that marks the beginning of an entirely new chapter. Watch the official music video…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T14:10:27+00:00",
+    "url": "https://blabbermouth.net/news/former-bury-your-dead-guitarist-eric-ellis-returns-with-his-new-band-ellis",
+    "artist": ""
+  },
+  {
+    "id": "8974d8cf1b2a646ab9",
+    "title": "QUEEN's Budapest Concert Celebrates 40th Anniversary With Newly Restored 4K Release",
+    "summary": "Sony Music Vision has announced that \"Queen Budapest\", the first Western stadium rock show to take place behind the Iron Curtain, and the final filmed QUEEN live performance, will be presented in cinemas and IMAX worldwide beginning October 7 through Trafalgar…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T13:23:48+00:00",
+    "url": "https://blabbermouth.net/news/queens-budapest-concert-celebrates-40th-anniversary-with-newly-restored-4k-release",
+    "artist": ""
+  },
+  {
+    "id": "03e6be40836896c435",
+    "title": "Watch: New NEVERMORE Lineup Kicks Off Summer 2026 European Tour At Bulgaria's HILLS OF ROCK Festival",
+    "summary": "Fan-filmed video of NEVERMORE's July 26 performance at the 2026 edition of the Hills Of Rock festival in Plovdiv, Bulgaria can be seen below. According to Setlist.fm, the setlist for the concert was as follows: 01. Beyond Within 02. Inside Four Walls 03. My Ac…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T12:46:59+00:00",
+    "url": "https://blabbermouth.net/news/watch-new-nevermore-lineup-kicks-off-summer-2026-european-tour-at-bulgarias-hills-of-rock-festival",
+    "artist": ""
+  },
+  {
+    "id": "e15888800007c9c119",
+    "title": "Watch: SCORPIONS Perform In Lodz, Poland During 2026 Tour",
+    "summary": "The Marcin Adamus channel on YouTube has uploaded video of SCORPIONS' July 25, 2026 concert at Atlas Arena in Lodz, Poland. Check out the clips below. This past April, SCORPIONS vocalist Klaus Meine told Rolling Stone India that he and his bandmates were very…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T12:15:00+00:00",
+    "url": "https://blabbermouth.net/news/watch-scorpions-perform-in-lodz-poland-during-2026-tour",
+    "artist": ""
+  },
+  {
+    "id": "951ab8efb1c3bcef0a",
+    "title": "ANTHRAX Fill-In Drummer DARBY TODD Shares 'Among The Living' Drum-Cam Video From 2026 HELLFEST",
+    "summary": "Acclaimed U.K.-based session drummer Darby Todd has shared drum-cam video of him performing \"Among The Living\" with ANTHRAX live at this year's Hellfest on June 20, 2026 in Clisson, France. Todd was filling in for longtime ANTHRAX drummer Charlie Benante, who…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T11:57:19+00:00",
+    "url": "https://blabbermouth.net/news/anthrax-fill-in-drummer-darby-todd-shares-among-the-living-drum-cam-video-from-2026-hellfest",
+    "artist": ""
+  },
+  {
+    "id": "efb6a26b6ea13947ea",
+    "title": "GUS G. Is 'Excited About Creating New Music' With KING DIAMOND: 'It's A Big, Big Honor For Me'",
+    "summary": "Gus G. has commented on his addition to KING DIAMOND as the replacement for that band's longtime guitarist and songwriter Andy La Rocque. On Sunday (July 26), the 45-year-old Greek musician released a video message in which he said (as transcribed by BLABBERMO…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T11:43:22+00:00",
+    "url": "https://blabbermouth.net/news/gus-g-is-excited-about-creating-new-music-with-king-diamond-its-a-big-big-honor-for-me",
+    "artist": ""
+  },
+  {
+    "id": "1edbcb1ab47fbe2ada",
+    "title": "FAITH NO MORE To Support SYSTEM OF A DOWN On Tour Of Australia And New Zealand In Early 2027",
+    "summary": "FAITH NO MORE will support SYSTEM OF A DOWN on a tour of Australia and New Zealand in early 2027. The two bands will join forces for four shows — in Sydney, Melbourne, Brisbane, and Wellington — in January and February. Kicking off at Sydney's Accor Stadium on…",
+    "source": "Blabbermouth",
+    "published": "2026-07-27T01:56:47+00:00",
+    "url": "https://blabbermouth.net/news/faith-no-more-to-support-system-of-a-down-on-tour-of-australia-and-new-zealand-in-early-2027",
+    "artist": ""
+  },
+  {
+    "id": "05e757052e133df0df",
+    "title": "SYSTEM OF A DOWN's JOHN DOLMAYAN: 'Every Show We Play Is Always Special For Us, Cause There's So Few Of Them'",
+    "summary": "In a new interview with Strefa Music Art, SYSTEM OF A DOWN drummer John Dolmayan talked about the band's massive summer 2026 European stadium tour, which included two shows in Poland, on July 18 and July 19 at PGE Narodowy in Warsaw. He said (as transcribed by…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T20:26:25+00:00",
+    "url": "https://blabbermouth.net/news/system-of-a-downs-john-dolmayan-every-show-we-play-is-always-special-for-us-cause-theres-so-few-of-them",
+    "artist": ""
+  },
+  {
+    "id": "9c88a022e426da7c42",
+    "title": "BRUCE DICKINSON's Upcoming Solo Album Will Include Collaboration With His Son AUSTIN: 'It's Gonna Be One Of The Key Tracks On The Record'",
+    "summary": "At this weekend's San Diego Comic-Con, IRON MAIDEN singer Bruce Dickinson revealed to Steve Harkins of TalkShopLive that his upcoming solo album will include a collaboration with his son Austin. Bruce's oldest son, the 35-year-old Austin is a musician best kno…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T19:03:14+00:00",
+    "url": "https://blabbermouth.net/news/bruce-dickinsons-upcoming-solo-album-will-include-collaboration-with-his-son-austin-its-gonna-be-one-of-the-key-tracks-on-the-record",
+    "artist": ""
+  },
+  {
+    "id": "fa3b22961fe8c80980",
+    "title": "Watch: NEUROSIS's New Lineup Performs Live For First Time",
+    "summary": "NEUROSIS played its first show in seven years Saturday night (July 25) on the traditional lands of the Blackfeet Nation in Montana as part of Fire In The Mountains festival by special invitation of Firekeeper Alliance, a non-profit dedicated to reducing youth…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T18:00:58+00:00",
+    "url": "https://blabbermouth.net/news/watch-neurosiss-new-lineup-performs-live-for-first-time",
+    "artist": ""
+  },
+  {
+    "id": "77a500e4896c1763bd",
+    "title": "Watch: METAL CHURCH's New Lineup, Featuring Bassist DAVID ELLEFSON And Singer BRIAN ALLEN, Performs In Reading",
+    "summary": "The new lineup of METAL CHURCH performed last night (Saturday, July 25) at Reverb in Reading, Pennsylvania. Fan-filmed video of the concert can be seen below. Setlist: * Ton Of Bricks * Start The Fire * Fake Healer * Gods Of Wrath * F.A.F.O. * Badlands * Date…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T17:29:37+00:00",
+    "url": "https://blabbermouth.net/news/watch-metal-churchs-new-lineup-featuring-bassist-david-ellefson-and-singer-brian-allen-performs-in-reading",
+    "artist": ""
+  },
+  {
+    "id": "97ad5e74402c22ec0c",
+    "title": "11 Reunion Albums That Absolutely Rule",
+    "summary": "A legendary \"welcome back!\" The post 11 Reunion Albums That Absolutely Rule appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-26T16:58:14+00:00",
+    "url": "https://metalinjection.net/lists/11-reunion-albums-that-absolutely-rule",
+    "artist": ""
+  },
+  {
+    "id": "77214e5db27fe58bb9",
+    "title": "Lights, Camera, Satan: GHOST's Stage Designer TOBIAS RYLANDER Walks Us Through The Band's Elaborate Show",
+    "summary": "With Ghost set to release their upcoming concert film '2 Big 2 Rig' in IMAX, revisit our exclusive interview with stage designer Tobias Rylander, responsible for bringing the visuals of […] The post Lights, Camera, Satan: GHOST's Stage Designer TOBIAS RYLANDER…",
+    "source": "Metal Injection",
+    "published": "2026-07-26T16:51:00+00:00",
+    "url": "https://metalinjection.net/interviews/lights-camera-satan-ghosts-stage-designer-tobias-rylander-walks-us-through-the-bands-elaborate-show",
+    "artist": ""
+  },
+  {
+    "id": "01efcab7a33a3fdd42",
+    "title": "To Spite the Gland That Breeds: Remembering Lou Koller's Strangest Record",
+    "summary": "Written by Napalm Death's Shane Embury, Blood From the Soul's first LP is an industrial hardcore gem. The post To Spite the Gland That Breeds: Remembering Lou Koller's Strangest Record appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-26T16:20:05+00:00",
+    "url": "https://metalinjection.net/reviews/retrospective/to-spite-the-gland-that-breeds-remembering-lou-kollers-strangest-record",
+    "artist": ""
+  },
+  {
+    "id": "a3b51a37085e77dbda",
+    "title": "Watch: FIVE FINGER DEATH PUNCH Performs Previously Unreleased Title Track Of Upcoming 'Legacy' Album Live For First Time",
+    "summary": "FIVE FINGER DEATH PUNCH performed the previously unreleased title track of the band's upcoming tenth studio album, \"Legacy\", live for the first time at the kick-off concert of the group's summer 2026 North American tour on July 20 at Camden, New Jersey's Freed…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T15:49:44+00:00",
+    "url": "https://blabbermouth.net/news/watch-five-finger-death-punch-performs-previously-unreleased-title-track-of-upcoming-legacy-album-live-for-first-time",
+    "artist": ""
+  },
+  {
+    "id": "1f3db5b6633c16cd07",
+    "title": "Watch: JUDAS PRIEST Kicks Off 2026 'Faithkeepers' European Tour At Germany's BOBFEST",
+    "summary": "British heavy metal legends JUDAS PRIEST kicked off their 2026 \"Faithkeepers\" world tour Saturday night (July 25) at Germany's BOBfest. The band's 17-song set at Monchengladbach's SparkassenPark included two 1970s classics, \"The Ripper\" and \"Delivering The Goo…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T15:23:25+00:00",
+    "url": "https://blabbermouth.net/news/watch-judas-priest-kicks-off-2026-faithkeepers-european-tour-at-germanys-bobfest",
+    "artist": ""
+  },
+  {
+    "id": "7db42a5b98a50284ca",
+    "title": "GRETA VAN FLEET To Release New Single 'Saw You Stand'",
+    "summary": "Following the arrival of the new single \"Play Your Games\", an electrifying sold-out underplay performance at New York City's Bowery Ballroom and the upcoming release of another new single, \"Saw You Stand\", on July 31, GRETA VAN FLEET will play a rare intimate…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T14:40:26+00:00",
+    "url": "https://blabbermouth.net/news/greta-van-fleet-to-release-new-single-saw-you-stand",
+    "artist": ""
+  },
+  {
+    "id": "148985bf09698b94ab",
+    "title": "ANDY LA ROCQUE On His Exit From KING DIAMOND: 'We Mutually Decided To Part Ways In A Respectful And Friendly Manner'",
+    "summary": "Andy La Rocque has commented on his decision to leave KING DIAMOND after more than four decades. Earlier today (Sunday, July 26), the 63-year-old Swedish-born guitarist, whose real name is Anders Allhage, took to his social media to write: \"Hi everyone ! Just…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T13:25:09+00:00",
+    "url": "https://blabbermouth.net/news/andy-la-rocque-on-his-exit-from-king-diamond-we-mutually-decided-to-part-ways-in-a-respectful-and-friendly-manner",
+    "artist": ""
+  },
+  {
+    "id": "9941d7480f858c8247",
+    "title": "Ex-ACCEPT Bassist PETER BALTES Hospitalized In Germany After Suffering Three Rib Fractures In 'Serious Fall' From Stage (Video)",
+    "summary": "Former ACCEPT bassist Peter Baltes has been hospitalized after suffering \"three rib fractures\" due to a \"serious fall\" from the stage during DIRKSCHNEIDER's July 25 concert at Pyraser Classic Rock Night at Pyraser Landbrauerei, a brewery in the Thalmässing dis…",
+    "source": "Blabbermouth",
+    "published": "2026-07-26T12:38:02+00:00",
+    "url": "https://blabbermouth.net/news/ex-accept-bassist-peter-baltes-hospitalized-in-germany-after-suffering-three-rib-fractures-in-serious-fall-from-stage-video",
+    "artist": ""
+  },
+  {
+    "id": "00e8cc3e89bdaa5f3f",
+    "title": "See AC/DC's Entire Concert In San Antonio During 2026 North American Leg Of 'Power Up' Tour",
+    "summary": "The Patrick Zapata channel on YouTube has uploaded video of AC/DC's entire July 24 concert at Alamodome in San Antonio, Texas. Check out the footage below. According to Setlist.fm, the setlist for the show was as follows: 01. If You Want Blood (You've Got It)…",
+    "source": "Blabbermouth",
+    "published": "2026-07-25T20:58:28+00:00",
+    "url": "https://blabbermouth.net/news/see-ac-dcs-entire-concert-in-san-antonio-during-2026-north-american-leg-of-power-up-tour",
+    "artist": ""
+  },
+  {
+    "id": "0040b6c4399286711c",
+    "title": "MICHAEL KISKE: 'We Already Have 90%' Of Next HELLOWEEN Album 'Done'",
+    "summary": "In a new interview with Brazil's Rock Mania, HELLOWEEN singer Michael Kiske reflected on the making of the band's latest album, \"Giants & Monsters\", which arrived in August 2025 via Reigning Phoenix Music (RPM). Asked if the follow-up to 2021's \"Helloween\" was…",
+    "source": "Blabbermouth",
+    "published": "2026-07-25T20:10:33+00:00",
+    "url": "https://blabbermouth.net/news/michael-kiske-we-already-have-90-of-next-helloween-album-done",
+    "artist": ""
+  },
+  {
+    "id": "541fff0f558cb52aba",
+    "title": "10 Awesome Metal Covers Of Country Classics",
+    "summary": "Black hat cowboys. The post 10 Awesome Metal Covers Of Country Classics appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-25T15:31:47+00:00",
+    "url": "https://metalinjection.net/lists/10-awesome-metal-covers-of-country-classics",
+    "artist": ""
+  },
+  {
+    "id": "0a76f633ed3aee39a9",
+    "title": "AMON AMARTH's JOHAN HEGG Reveals The Truth About 10 Viking Myths",
+    "summary": "Was Blood Eagle torture common? Did Vikings actually drink from the skulls of their enemies? The post AMON AMARTH's JOHAN HEGG Reveals The Truth About 10 Viking Myths appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-25T15:14:10+00:00",
+    "url": "https://metalinjection.net/video/amon-amarths-johan-hegg-reveals-the-truth-about-10-viking-myths",
+    "artist": ""
+  },
+  {
+    "id": "113a12ca540840976b",
+    "title": "LISTEN: When TRIVIUM and KING DIAMOND Joined Forces For Insane 'Roadrunner United' Collab",
+    "summary": "That solo is still absolutely bonkers. The post LISTEN: When TRIVIUM and KING DIAMOND Joined Forces For Insane 'Roadrunner United' Collab appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-25T15:02:43+00:00",
+    "url": "https://metalinjection.net/reviews/retrospective/listen-when-trivium-and-king-diamond-joined-forces-for-insane-roadrunner-united-collab",
+    "artist": ""
+  },
+  {
+    "id": "560dac113bfa319dcc",
+    "title": "LOU KOLLER, Vocalist of SICK OF IT ALL Dead at 59",
+    "summary": "\"Hopefully he can somehow still see and feel the beautiful, positive mark he left on the world.\" The post LOU KOLLER, Vocalist of SICK OF IT ALL Dead at 59 appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T23:02:02+00:00",
+    "url": "https://metalinjection.net/news/lou-koller-vocalist-of-sick-of-it-all-dead-at-59",
+    "artist": ""
+  },
+  {
+    "id": "5dc060b46815b30697",
+    "title": "DAVID LEE ROTH Cancels Rest Of Tour, SAMMY HAGAR Invites Him To Las Vegas Residency",
+    "summary": "\"I hope you're well.\" The post DAVID LEE ROTH Cancels Rest Of Tour, SAMMY HAGAR Invites Him To Las Vegas Residency appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T20:49:01+00:00",
+    "url": "https://metalinjection.net/news/david-lee-roth-cancels-rest-of-tour-sammy-hagar-invites-him-to-las-vegas-residency",
+    "artist": ""
+  },
+  {
+    "id": "325a21fc359ea5e69a",
+    "title": "LINKIN PARK, SMASHING PUMPKINS, And More To Be Honored By Hollywood Walk Of Fame",
+    "summary": "They join the legions of rock and metal musicians that have already been awarded the honor. The post LINKIN PARK, SMASHING PUMPKINS, And More To Be Honored By Hollywood Walk Of Fame appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T20:02:09+00:00",
+    "url": "https://metalinjection.net/news/linkin-park-smashing-pumpkins-ramones-walk-of-fame-2027",
+    "artist": ""
+  },
+  {
+    "id": "efc45baafd1ee30105",
+    "title": "KING DIAMOND Guitarist Andy LaRocque Departs Band After 40+ Years, New Guitarist Announced",
+    "summary": "\"Looking back, we do so with nothing but pride, gratitude, and respect for everything we have achieved together.\" The post KING DIAMOND Guitarist Andy LaRocque Departs Band After 40+ Years, New Guitarist Announced appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T17:54:40+00:00",
+    "url": "https://metalinjection.net/news/king-diamond-guitarist-andy-larocque-departs-band-after-40-years",
+    "artist": ""
+  },
+  {
+    "id": "6412d563bb4dd64545",
+    "title": "Legendary NYC Metal Venue SAINT VITUS Returns With THE DILLINGER ESCAPE PLAN + More",
+    "summary": "A win for the world of heavy metal. The post Legendary NYC Metal Venue SAINT VITUS Returns With THE DILLINGER ESCAPE PLAN + More appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T17:51:24+00:00",
+    "url": "https://metalinjection.net/news/legendary-nyc-metal-venue-saint-vitus-returns-with-the-dillinger-escape-plan-more",
+    "artist": ""
+  },
+  {
+    "id": "8085942db20b6695b3",
+    "title": "BRUCE DICKINSON Joined BILLIE JOE ARMSTRONG's Cover Band At San Diego Comic-Con",
+    "summary": "For one song in their massive 26-song set. The post BRUCE DICKINSON Joined BILLIE JOE ARMSTRONG's Cover Band At San Diego Comic-Con appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T17:34:12+00:00",
+    "url": "https://metalinjection.net/news/bruce-dickinson-joined-billie-joe-armstrongs-cover-band-at-san-diego-comic-con",
+    "artist": ""
+  },
+  {
+    "id": "d86b7ed0eb43769808",
+    "title": "The Weekly Injection: New Releases From THE HU, MADBALL, and More Out This Week – 7/24",
+    "summary": "Plus releases from Combichrist, North Sea Echoes, Rezn, and more. The post The Weekly Injection: New Releases From THE HU, MADBALL, and More Out This Week – 7/24 appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T16:50:04+00:00",
+    "url": "https://metalinjection.net/upcoming-releases/heavy-new-releases/the-weekly-injection-new-releases-from-the-hu-madball-and-more-out-this-week-7-24",
+    "artist": ""
+  },
+  {
+    "id": "ab59300f85257efc14",
+    "title": "LISTEN: MINISTRY Announce Final Album, Farewell Tour + Single \"Burned Out\"",
+    "summary": "Ministry announce their final album Hate to Go (Take Out or Delivery) as well as their farewell tour. It's been a long, strange road for industrial revolutionaries Ministry. Back in […] The post LISTEN: MINISTRY Announce Final Album, Farewell Tour + Single \"Bu…",
+    "source": "Metal Injection",
+    "published": "2026-07-24T14:21:08+00:00",
+    "url": "https://metalinjection.net/news/listen-ministry-announce-final-album-farewell-tour",
+    "artist": ""
+  },
+  {
+    "id": "af8f6af24ccdbe743a",
+    "title": "LISTEN: AVENGED SEVENFOLD Surprise Release Trippy, Futuristic EP 'STATICA'",
+    "summary": "It sounds very 'My Beautiful Dark Twisted Fantasy.' The post LISTEN: AVENGED SEVENFOLD Surprise Release Trippy, Futuristic EP 'STATICA' appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-24T13:05:38+00:00",
+    "url": "https://metalinjection.net/news/listen-avenged-sevenfold-surprise-release-trippy-futuristic-ep-statica",
+    "artist": ""
+  },
+  {
+    "id": "c39b76a2e68c1af5cb",
+    "title": "LISTEN: EMMA RUTH RUNDLE Targets Billionaires on \"Enough,\" Announces Fall Tour",
+    "summary": "\"Enough\" comes off Rundle's upcoming record 'These Killing Times,' out September 18. The post LISTEN: EMMA RUTH RUNDLE Targets Billionaires on \"Enough,\" Announces Fall Tour appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-23T20:12:08+00:00",
+    "url": "https://metalinjection.net/new-music/listen-emma-ruth-rundle-targets-billionaires-on-enough-announces-fall-tour",
+    "artist": ""
+  },
+  {
+    "id": "6a34fea10ed30c661f",
+    "title": "KORN's Jonathan Davis Marries Wife in Insanely Opulent Wedding Inspired By 'The Birth of Venus'",
+    "summary": "The ornate ceremony took place on July 3 on the California coast. The post KORN's Jonathan Davis Marries Wife in Insanely Opulent Wedding Inspired By 'The Birth of Venus' appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-23T19:19:35+00:00",
+    "url": "https://metalinjection.net/news/korns-jonathan-davis-marries-wife-in-insanely-opulent-wedding-inspired-by-the-birth-of-venus",
+    "artist": ""
+  },
+  {
+    "id": "4986b2eb6abace6bf0",
+    "title": "SLEEP TOKEN Earns First RIAA Platinum Album Certification",
+    "summary": "It's a major achievement for the massive group. The post SLEEP TOKEN Earns First RIAA Platinum Album Certification appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-23T17:35:39+00:00",
+    "url": "https://metalinjection.net/news/sleep-token-earns-first-riaa-platinum-album-certification",
+    "artist": ""
+  },
+  {
+    "id": "86bcfe9e8f7aa1bcb3",
+    "title": "THE CALLOUS DAOBOYS Frontman Accuses KIM DRACULA of Ripping Off Breakdown",
+    "summary": "\"AI, do the Daoboys thing.\" The post THE CALLOUS DAOBOYS Frontman Accuses KIM DRACULA of Ripping Off Breakdown appeared first on Metal Injection .",
+    "source": "Metal Injection",
+    "published": "2026-07-23T17:32:24+00:00",
+    "url": "https://metalinjection.net/news/callous-daoboys-accuse-kim-dracula-of-copying",
+    "artist": ""
+  },
+  {
+    "id": "a71fa32efb4627b394",
+    "title": "Do I Suck For… Loading Up The TouchTunes At The Bar With Butt Rock?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For… Loading Up The TouchTunes At The Bar With Butt Rock? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-22T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/22/do-i-suck-for-loading-up-the-touchtunes-at-the-bar-with-butt-rock/",
+    "artist": ""
+  },
+  {
+    "id": "8f810924b3fc980171",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: MOTIONLESS IN WHITE – DECADES",
+    "summary": "We're testing Dave Mustcomplain's limits with this album review. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: MOTIONLESS IN WHITE – DECADES appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-21T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/21/disgruntled-dad-reviews-with-dave-mustcomplain-motionless-in-white-decades/",
+    "artist": ""
+  },
+  {
+    "id": "a742b1b30e62d01714",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: Let’s Go Goblin Mode On This Week’s 3 Biggest Metal Headlines",
+    "summary": "Featuring news from System Of A Down and Twin Temple. The post MONDAYSUCKS With JOHN GOBLIKON: Let’s Go Goblin Mode On This Week’s 3 Biggest Metal Headlines appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-20T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/20/mondaysucks-with-john-goblikon-lets-go-goblin-mode-on-this-weeks-3-biggest-metal-headlines/",
+    "artist": ""
+  },
+  {
+    "id": "74fc47ebe821c03c2d",
+    "title": "DROPOCALYPSE FRIDAY: So, Ya Like Prog, Do Ya?",
+    "summary": "Preparing myself for the 'that's not prog' comments. The post DROPOCALYPSE FRIDAY: So, Ya Like Prog, Do Ya? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-17T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/17/dropocalypse-friday-so-ya-like-prog-do-ya/",
+    "artist": ""
+  },
+  {
+    "id": "00b9cf1673060d7012",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: Got Time To Kill Between Sets? Now, You’re A Ride Share Driver",
+    "summary": "You're Sisyphus pushing the boulder uphill. The post NET WORTHLESS With JOHNNY SPREADSHEETS: Got Time To Kill Between Sets? Now, You’re A Ride Share Driver appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-16T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/16/net-worthless-with-johnny-spreadsheets-got-time-to-kill-between-sets-now-youre-a-ride-share-driver/",
+    "artist": ""
+  },
+  {
+    "id": "04758f2522b0868bb3",
+    "title": "Do I Suck For… Using AMORPHIS Lyrics To Get Laid?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For… Using AMORPHIS Lyrics To Get Laid? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-15T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/15/do-i-suck-for-using-amorphis-lyrics-to-get-laid/",
+    "artist": ""
+  },
+  {
+    "id": "cb510d7b1f943c4497",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: IF THESE TREES COULD TALK – THE HIDDEN HAND",
+    "summary": "Is Dave Mustcomplain capable of ever liking a record? Or is it just in his name? The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: IF THESE TREES COULD TALK – THE HIDDEN HAND appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-14T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/14/disgruntled-dad-reviews-with-dave-mustcomplain-if-these-trees-could-talk-the-hidden-hand/",
+    "artist": ""
+  },
+  {
+    "id": "21409fc5bc263f357f",
+    "title": "DROPOCALYPSE FRIDAY: For The Sceney-Boppers In Your Life",
+    "summary": "An interesting week in vinyl drops... if you have teenagers. The post DROPOCALYPSE FRIDAY: For The Sceney-Boppers In Your Life appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-10T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/10/dropocalypse-friday-july-10-bring-me-the-horizon-the-plot-in-you/",
+    "artist": ""
+  },
+  {
+    "id": "b201cdd82832f3d467",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: How To Upgrade Your Backline By Wrecking Your Van",
+    "summary": "Johnny Spreadsheets offers aspiring musicians some rather creative possible solutions to financial problems. The post NET WORTHLESS With JOHNNY SPREADSHEETS: How To Upgrade Your Backline By Wrecking Your Van appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-09T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/09/net-worthless-with-johnny-spreadsheets-how-to-upgrade-your-backline-by-wrecking-your-van/",
+    "artist": ""
+  },
+  {
+    "id": "d3c83a52dfc59c6f08",
+    "title": "Do I Suck For… Walking Out On a Date Because He Liked Lame Music?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For… Walking Out On a Date Because He Liked Lame Music? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-08T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/08/do-i-suck-for-walking-out-on-a-date-because-he-liked-lame-music/",
+    "artist": ""
+  },
+  {
+    "id": "db973215c43ab487ad",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: COPROLITH – PUTRESCENCE",
+    "summary": "Dave Mustcomplain reviews a Canadian metal act after the 4th of July. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: COPROLITH – PUTRESCENCE appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-07T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/07/disgruntled-dad-reviews-with-dave-mustcomplain-coprolith-putrescence/",
+    "artist": ""
+  },
+  {
+    "id": "ded20421a62db6db92",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: NEKROGOBLIKON Turns 20, And Now We Are Too Old For LEONARDO DICAPRIO!",
+    "summary": "John Goblikon of Nekrogoblikon pens the legend of how the band started and their 20 year journey. The post MONDAYSUCKS With JOHN GOBLIKON: NEKROGOBLIKON Turns 20, And Now We Are Too Old For LEONARDO DICAPRIO! appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-06T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/06/mondaysucks-with-john-goblikon-nekrogoblikon-turns-20-and-now-we-are-too-old-for-leonardo-dicaprio/",
+    "artist": ""
+  },
+  {
+    "id": "98cb75304c61714f02",
+    "title": "DROPOCALYPSE FRIDAY: To Keep You Occupied This Freedom Weekend",
+    "summary": "Have plans? Don't have plans? We have you covered. The post DROPOCALYPSE FRIDAY: To Keep You Occupied This Freedom Weekend appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-03T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/03/dropocalypse-friday-to-keep-you-occupied-this-freedom-weekend/",
+    "artist": ""
+  },
+  {
+    "id": "7db824bac98b61c1cf",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: All Engagement Is Good Engagement, Something Something, Algorithm",
+    "summary": "Johnny Spreadsheets offers some advice on making money through social media. The post NET WORTHLESS With JOHNNY SPREADSHEETS: All Engagement Is Good Engagement, Something Something, Algorithm appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-02T14:00:51+00:00",
+    "url": "https://www.metalsucks.net/2026/07/02/net-worthless-with-johnny-spreadsheets-all-engagement-is-good-engagement/",
+    "artist": ""
+  },
+  {
+    "id": "8272eb0a9d2c510b83",
+    "title": "Do I Suck For… Making My Father-In-Law Bootleg Merch?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For… Making My Father-In-Law Bootleg Merch? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-07-01T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/07/01/do-i-suck-for-making-my-father-in-law-bootleg-merch/",
+    "artist": ""
+  },
+  {
+    "id": "97932d4eefd7039139",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: MASTERPLAN – METALMORPHOSIS",
+    "summary": "Dave Mustcomplain finds himself almost enjoying an album... almost. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: MASTERPLAN – METALMORPHOSIS appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-30T14:00:17+00:00",
+    "url": "https://www.metalsucks.net/2026/06/30/disgruntled-dad-reviews-with-dave-mustcomplain-masterplan-metalmorphosis/",
+    "artist": ""
+  },
+  {
+    "id": "d883adafeb8e28eb0a",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: By Murdering An Orange Guy, GWAR is Actually Being Inclusive",
+    "summary": "Monday columnist John Goblikon of Nekrogoblikon has a rather philosophical take on the recent GWAR performance. The post MONDAYSUCKS With JOHN GOBLIKON: By Murdering An Orange Guy, GWAR is Actually Being Inclusive appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-29T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/29/monday-sucks-june-29-gwar-performance/",
+    "artist": ""
+  },
+  {
+    "id": "2dfe438145ed0b0fc9",
+    "title": "DROPOCALYPSE FRIDAY: For The Forgotten Father’s Day Blues",
+    "summary": "This past Sunday was Father's Day – sorry if you're just finding out now. The post DROPOCALYPSE FRIDAY: For The Forgotten Father’s Day Blues appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-26T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/26/dropocalypse-friday-for-the-forgotten-fathers-day-blues/",
+    "artist": ""
+  },
+  {
+    "id": "274efc4bf14a5c4ad9",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: The One Data Center Secret That Will Make You Rich",
+    "summary": "Johnny Spreadsheets has a real out there idea this week... The post NET WORTHLESS With JOHNNY SPREADSHEETS: The One Data Center Secret That Will Make You Rich appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-25T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/25/net-worthless-with-johnny-spreadsheets-the-one-data-center-secret-that-will-make-you-rich/",
+    "artist": ""
+  },
+  {
+    "id": "08096da57af42564e7",
+    "title": "DO I SUCK… For Spraying Perfume In The Middle Of The Pit?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post DO I SUCK… For Spraying Perfume In The Middle Of The Pit? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-24T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/24/do-i-suck-for-spraying-perfume-in-the-middle-of-the-pit/",
+    "artist": ""
+  },
+  {
+    "id": "9d8898a052197f8e5f",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: SOULBURN – THE BRAVEHEART OF NIGHTMARES",
+    "summary": "Dave Mustcomplain takes his therapist's advice and tried to be openminded. It was a journey. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: SOULBURN – THE BRAVEHEART OF NIGHTMARES appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-23T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/23/disgruntled-dad-reviews-with-dave-mustcomplain-soulburn-the-braveheart-of-nightmares/",
+    "artist": ""
+  },
+  {
+    "id": "00a7b482ad3fe73eed",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: Death-Metal Is Cool, But Have You Guys Ever Tried Life-Metal?!?",
+    "summary": "John Goblikon offers a rather profound experience he had while reflecting on his mortality – while doomscrolling. The post MONDAYSUCKS With JOHN GOBLIKON: Death-Metal Is Cool, But Have You Guys Ever Tried Life-Metal?!? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-22T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/22/mondaysucks-with-john-goblikon-death-metal-is-cool-but-have-you-guys-ever-tried-life-metal/",
+    "artist": ""
+  },
+  {
+    "id": "0b470ce72e17f1e40c",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: Cutting Corners With AI Has Never Been Easier!",
+    "summary": "Johnny Spreadsheets offers an unexpected tip on how to use AI to your advantage this week on Net Worthless. The post NET WORTHLESS With JOHNNY SPREADSHEETS: Cutting Corners With AI Has Never Been Easier! appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-18T14:00:04+00:00",
+    "url": "https://www.metalsucks.net/2026/06/18/net-worthless-with-johnny-spreadsheets-cutting-corners-with-ai-has-never-been-easier/",
+    "artist": ""
+  },
+  {
+    "id": "98b10baa1937783987",
+    "title": "Do I Suck… For Farting On My Vocalist’s Microphone?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck… For Farting On My Vocalist’s Microphone? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-17T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/17/do-i-suck-for-farting-on-my-vocalists-microphone/",
+    "artist": ""
+  },
+  {
+    "id": "75c4cab04947510698",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: FUNEBRARUM – Beckoning The Void Of Eternal Silence",
+    "summary": "Dave Mustcomplain reviews Funebrarum's newest record, 'Beckoning The Void Of Eternal Silence' for this week's Disgruntled Dad Reviews. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: FUNEBRARUM – Beckoning The Void Of Eternal Silence appeared first on…",
+    "source": "MetalSucks",
+    "published": "2026-06-16T14:01:11+00:00",
+    "url": "https://www.metalsucks.net/2026/06/16/disgruntled-dad-reviews-with-dave-mustcomplain-funebrarum-beckoning-the-void-of-eternal-silence/",
+    "artist": ""
+  },
+  {
+    "id": "2deaf9e9dde42a124a",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: Oh My Gob, I Just Found Out JAVIER BARDEM Loves Metal And Now, I’m Fully Bricked Up",
+    "summary": "Coming from the world’s hottest, smartest celebrity, Javier Bardem. The post MONDAYSUCKS With JOHN GOBLIKON: Oh My Gob, I Just Found Out JAVIER BARDEM Loves Metal And Now, I’m Fully Bricked Up appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-15T14:00:59+00:00",
+    "url": "https://www.metalsucks.net/2026/06/15/mondaysucks-with-john-goblikon-oh-my-gob-i-just-found-out-javier-bardem-loves-metal-and-now-im-fully-bricked-up/",
+    "artist": ""
+  },
+  {
+    "id": "9dfd5fe0dacb512cca",
+    "title": "DROPOCALYPSE FRIDAY: New Records For An Old Head",
+    "summary": "And on this week's Dropocalypse Friday... we have a pretty wide variety of new material to check out. The post DROPOCALYPSE FRIDAY: New Records For An Old Head appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-12T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/12/dropocalypse-friday-new-records-for-an-old-head/",
+    "artist": ""
+  },
+  {
+    "id": "4e1a0d92c837a4f26d",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: Broke On The Road? Try Dodging On Lodging",
+    "summary": "Sounds like you've exhausted all of your usual lodging choices and need to start thinking outside the box. The post NET WORTHLESS With JOHNNY SPREADSHEETS: Broke On The Road? Try Dodging On Lodging appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-11T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/11/net-worthless-with-johnny-spreadsheets-broke-on-the-road-try-dodging-on-lodging/",
+    "artist": ""
+  },
+  {
+    "id": "27657d6d8bb78f5d32",
+    "title": "Do I Suck… For Thinking The Guitarist In My Boyfriend’s Band Is Hot?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck… For Thinking The Guitarist In My Boyfriend’s Band Is Hot? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-10T14:00:08+00:00",
+    "url": "https://www.metalsucks.net/2026/06/10/do-i-suck-for-thinking-the-guitarist-in-my-boyfriends-band-is-hot/",
+    "artist": ""
+  },
+  {
+    "id": "90267842b203c4f7e6",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: PHARMACIST – VERTEBRAE AFTER VERTEBRAE",
+    "summary": "Disgruntled Dad has a crack at the new Pharmacist record, \"Vertebrae After Vertebrae,\" with a take that is... hot. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: PHARMACIST – VERTEBRAE AFTER VERTEBRAE appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-09T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/09/disgruntled-dad-reviews-with-dave-mustcomplain-pharmacist-vertebrae-after-vertebrae/",
+    "artist": ""
+  },
+  {
+    "id": "7982fb997ac7d343a1",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: I Interviewed FRED DURST About Why An Unofficial Merch Store Makes Him Wanna Break Stuff",
+    "summary": "John Goblikon goes on quite the adventure with Limp Bizkit frontman, Fred Durst, in this satirical new interview. The post MONDAYSUCKS With JOHN GOBLIKON: I Interviewed FRED DURST About Why An Unofficial Merch Store Makes Him Wanna Break Stuff appeared first o…",
+    "source": "MetalSucks",
+    "published": "2026-06-08T14:00:11+00:00",
+    "url": "https://www.metalsucks.net/2026/06/08/mondaysucks-with-john-goblikon-i-interviewed-fred-durst-about-why-an-unofficial-merch-store-makes-him-wanna-break-stuff/",
+    "artist": ""
+  },
+  {
+    "id": "945bce1afcbcfe5036",
+    "title": "DROPOCALYPSE FRIDAY: More Records To Add To Your Neverending Vinyl Collection",
+    "summary": "Greetings, once again from Dropocalypse Friday, where you have left [...] The post DROPOCALYPSE FRIDAY: More Records To Add To Your Neverending Vinyl Collection appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-05T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/05/dropocalypse-friday-more-records-to-add-to-your-neverending-vinyl-collection/",
+    "artist": ""
+  },
+  {
+    "id": "2d8f33a571b38f0a7d",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: Best Practices For Your Band’s Annual Garage Sale",
+    "summary": "The tour’s over, you’re at least two years out from your next \"big things coming\" post, and you're thinking of running a garage sale. The post NET WORTHLESS With JOHNNY SPREADSHEETS: Best Practices For Your Band’s Annual Garage Sale appeared first on MetalSuck…",
+    "source": "MetalSucks",
+    "published": "2026-06-04T14:00:55+00:00",
+    "url": "https://www.metalsucks.net/2026/06/04/net-worthless-with-johnny-spreadsheets-best-practices-for-your-bands-annual-garage-sale/",
+    "artist": ""
+  },
+  {
+    "id": "6d2eb446d8c8f66d14",
+    "title": "DO I SUCK… For Punching a 15-Year-Old in the Face in the Pit?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post DO I SUCK… For Punching a 15-Year-Old in the Face in the Pit? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-03T14:00:00+00:00",
+    "url": "https://www.metalsucks.net/2026/06/03/do-i-suck-for-punching-a-15-year-old-in-the-face-in-the-pit/",
+    "artist": ""
+  },
+  {
+    "id": "f59281a2d179c8507e",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: STATIC DRESS – INJURY EPISODE",
+    "summary": "Disgrunted Dad Dave Mustcomplain has a listen to Static Dress' Injury Episode, and well... he has some thoughts. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: STATIC DRESS – INJURY EPISODE appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-02T13:59:16+00:00",
+    "url": "https://www.metalsucks.net/2026/06/02/disgruntled-dad-reviews-with-dave-mustcomplain-static-dress-injury-episode/",
+    "artist": ""
+  },
+  {
+    "id": "4d8d91814e3a71686b",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: If Music Was Made To Bring Us Together Why Do I Want To Fight This Guy In The Pit?",
+    "summary": "John Goblikon asks the tough questions for this week's MondaySucks column. The post MONDAYSUCKS With JOHN GOBLIKON: If Music Was Made To Bring Us Together Why Do I Want To Fight This Guy In The Pit? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-06-01T14:00:15+00:00",
+    "url": "https://www.metalsucks.net/2026/06/01/mondaysucks-with-john-goblikon-if-music-was-made-to-bring-us-together-why-do-i-want-to-fight-this-guy-in-the-pit/",
+    "artist": ""
+  },
+  {
+    "id": "e746185ce2bc7b9e73",
+    "title": "DROPOCALYPSE: Welcome To The Vinyl Jungle",
+    "summary": "\"Because record collecting is fun. It is also, objectively, the stupidest hobby of all time. But that’s neither here nor there.\" The post DROPOCALYPSE: Welcome To The Vinyl Jungle appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-29T22:13:24+00:00",
+    "url": "https://www.metalsucks.net/2026/05/29/dropocalypse-welcome-to-the-vinyl-jungle/",
+    "artist": ""
+  },
+  {
+    "id": "f10ed62d11bcc1f82f",
+    "title": "NET WORTHLESS With JOHNNY SPREADSHEETS: Boil Your Bass Strings Into A Brighter Financial Future",
+    "summary": "\"How much does water cost? It’s basically free if the gas station bathroom door is unlocked.\" The post NET WORTHLESS With JOHNNY SPREADSHEETS: Boil Your Bass Strings Into A Brighter Financial Future appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-28T20:33:29+00:00",
+    "url": "https://www.metalsucks.net/2026/05/28/net-worthless-with-johnny-spreadsheets-boil-your-bass-strings-into-a-brighter-financial-future/",
+    "artist": ""
+  },
+  {
+    "id": "be87f09340c4cb1675",
+    "title": "DO I SUCK… For Being Too Tall At A (HED)P.E. Show?",
+    "summary": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post DO I SUCK… For Being Too Tall At A (HED)P.E. Show? appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-27T23:49:51+00:00",
+    "url": "https://www.metalsucks.net/2026/05/27/do-i-suck-for-being-too-tall-at-a-hedp-e-show/",
+    "artist": ""
+  },
+  {
+    "id": "5783f459866cddca33",
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: BLACK VEIL BRIDES’ ‘Vindicate’",
+    "summary": "\"I’m pretty sure I’ve already tipped my hand regarding the score I’m going to give it.\" The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: BLACK VEIL BRIDES’ ‘Vindicate’ appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-26T22:18:52+00:00",
+    "url": "https://www.metalsucks.net/2026/05/26/disgruntled-dad-reviews-with-dave-mustcomplain-black-veil-brides-vindicate/",
+    "artist": ""
+  },
+  {
+    "id": "54506fbe92d157fd77",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: I Tried Watering It, But I Can’t Keep This Industry Plant Alive!",
+    "summary": "John Goblikon asks \"how much friggin’ water do industry plants need ‘cause I can’t keep these things alive to save my life!\" The post MONDAYSUCKS With JOHN GOBLIKON: I Tried Watering It, But I Can’t Keep This Industry Plant Alive! appeared first on MetalSucks…",
+    "source": "MetalSucks",
+    "published": "2026-05-25T14:00:56+00:00",
+    "url": "https://www.metalsucks.net/2026/05/25/mondaysucks-with-john-goblikon-i-tried-watering-it-but-i-cant-keep-this-industry-plant-alive/",
+    "artist": ""
+  },
+  {
+    "id": "1af6467f615e211ca2",
+    "title": "This Week in Metal: 5/18/2026–5/22/2026",
+    "summary": "What a week it’s been! The metal news this had [...] The post This Week in Metal: 5/18/2026–5/22/2026 appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-22T21:40:05+00:00",
+    "url": "https://www.metalsucks.net/2026/05/22/this-week-in-metal-5-18-2026-5-22-2026/",
+    "artist": ""
+  },
+  {
+    "id": "8a56bfcab8fc78557e",
+    "title": "MONDAYSUCKS With JOHN GOBLIKON: If AI-Generated Music Has No Soul, How Did It Accept My Marriage Proposal?!",
+    "summary": "John Goblikon kicks off his brand new column, MondaySucks, with MetalSucks by wondering if AI is really all that bad for the music industry. The post MONDAYSUCKS With JOHN GOBLIKON: If AI-Generated Music Has No Soul, How Did It Accept My Marriage Proposal?! ap…",
+    "source": "MetalSucks",
+    "published": "2026-05-18T17:30:33+00:00",
+    "url": "https://www.metalsucks.net/2026/05/18/mondaysucks-with-john-goblikon-if-ai-generated-music-has-no-soul-how-did-it-accept-my-marriage-proposal/",
+    "artist": ""
+  },
+  {
+    "id": "f70996338250285d52",
+    "title": "This Week in Metal: 5/11/2026–5/15/2026",
+    "summary": "My, my, my, what a week. The post This Week in Metal: 5/11/2026–5/15/2026 appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-15T23:18:57+00:00",
+    "url": "https://www.metalsucks.net/2026/05/15/this-week-in-metal-5-11-2026-5-15-2026/",
+    "artist": ""
+  },
+  {
+    "id": "e7845040ffc8c02163",
+    "title": "Six Pretty Unsucky Things from Welcome to Rockville 2026",
+    "summary": "Well, five things—bad weather be damned! The post Six Pretty Unsucky Things from Welcome to Rockville 2026 appeared first on MetalSucks .",
+    "source": "MetalSucks",
+    "published": "2026-05-12T22:32:59+00:00",
+    "url": "https://www.metalsucks.net/2026/05/12/six-pretty-unsucky-things-from-welcome-to-rockville-2026/",
     "artist": ""
   }
 ]
