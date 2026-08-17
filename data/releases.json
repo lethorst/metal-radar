@@ -1,55 +1,5 @@
 [
   {
-    "id": "22bd59b3-7ec2-4fe1-8fda-e1ecb393b96f",
-    "artist": "Left to Die",
-    "title": "Initium Mortis",
-    "releaseDate": "2026-07-17",
-    "type": "Album",
-    "genre": "metal, english, plattentests.de",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/22bd59b3-7ec2-4fe1-8fda-e1ecb393b96f"
-  },
-  {
-    "id": "caef4de4-caa4-4c5f-b552-63717ea4bb70",
-    "artist": "Loathe",
-    "title": "A Stranger to You",
-    "releaseDate": "2026-07-17",
-    "type": "Album",
-    "genre": "alternative rock, shoegaze, industrial metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/caef4de4-caa4-4c5f-b552-63717ea4bb70"
-  },
-  {
-    "id": "b7c408f4-02ec-40a7-b025-0259441866ee",
-    "artist": "Lord Gryphus",
-    "title": "Summoning the King of Death",
-    "releaseDate": "2026-07-17",
-    "type": "Album",
-    "genre": "death metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/b7c408f4-02ec-40a7-b025-0259441866ee"
-  },
-  {
-    "id": "710d8154-ec20-4e02-aee3-3bd46f966bc2",
-    "artist": "Motionless in White",
-    "title": "Decades",
-    "releaseDate": "2026-07-17",
-    "type": "Album",
-    "genre": "metal, english, offizielle charts",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/710d8154-ec20-4e02-aee3-3bd46f966bc2"
-  },
-  {
-    "id": "de928b96-183b-4c3f-926d-9ea2c67695e3",
-    "artist": "Quicksand",
-    "title": "Bring on the Psychics",
-    "releaseDate": "2026-07-17",
-    "type": "Album",
-    "genre": "rock, metal, english",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/de928b96-183b-4c3f-926d-9ea2c67695e3"
-  },
-  {
     "id": "b161e496-9e36-40db-8078-da82c3e96ac5",
     "artist": "Against",
     "title": "Tradición",
