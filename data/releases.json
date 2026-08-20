@@ -1,15 +1,5 @@
 [
   {
-    "id": "b161e496-9e36-40db-8078-da82c3e96ac5",
-    "artist": "Against",
-    "title": "Tradición",
-    "releaseDate": "2026-07-20",
-    "type": "Album",
-    "genre": "metal, metalcore, groove metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/b161e496-9e36-40db-8078-da82c3e96ac5"
-  },
-  {
     "id": "79aaf41d-6f4e-4b69-9681-b249dc1b641d",
     "artist": "UNIDARK",
     "title": "The Filth Testament – Blackdeathgrin Metal Ascends",
@@ -108,6 +98,16 @@
     "genre": "metal, metalcore, mathcore",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/fb354c7e-fcc6-481b-a8e8-b11ae8e094b9"
+  },
+  {
+    "id": "9b2c4aaf-5450-469b-ba55-85dd41493d0e",
+    "artist": "End of Dayz",
+    "title": "Nothing But Hate",
+    "releaseDate": "2026-08-19",
+    "type": "Album",
+    "genre": "metal, hardcore punk",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/9b2c4aaf-5450-469b-ba55-85dd41493d0e"
   },
   {
     "id": "bc21a949-4d4b-495a-b589-f2cca861e8e9",
