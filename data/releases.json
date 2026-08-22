@@ -100,6 +100,46 @@
     "url": "https://musicbrainz.org/release-group/9b2c4aaf-5450-469b-ba55-85dd41493d0e"
   },
   {
+    "id": "82028b22-1685-4fb5-abba-9c3c5c69e303",
+    "artist": "Dark Funeral",
+    "title": "A Beast to Praise (live in Stockholm)",
+    "releaseDate": "2026-08-21",
+    "type": "Album",
+    "genre": "black metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/82028b22-1685-4fb5-abba-9c3c5c69e303"
+  },
+  {
+    "id": "fecfdc97-cf4f-4d54-9841-a99ea707d88c",
+    "artist": "Noveria",
+    "title": "Becoming After",
+    "releaseDate": "2026-08-21",
+    "type": "Album",
+    "genre": "progressive metal, power metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/fecfdc97-cf4f-4d54-9841-a99ea707d88c"
+  },
+  {
+    "id": "6c2f5be1-7ad6-4e30-98e7-de62b6a47c78",
+    "artist": "Oddland",
+    "title": "Unilluminate to Illuminate",
+    "releaseDate": "2026-08-21",
+    "type": "Album",
+    "genre": "progressive metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/6c2f5be1-7ad6-4e30-98e7-de62b6a47c78"
+  },
+  {
+    "id": "90d2d0aa-8596-427d-8f05-44da10dcf44e",
+    "artist": "The Night Eternal",
+    "title": "Cold Velvet",
+    "releaseDate": "2026-08-21",
+    "type": "Album",
+    "genre": "heavy metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/90d2d0aa-8596-427d-8f05-44da10dcf44e"
+  },
+  {
     "id": "bc21a949-4d4b-495a-b589-f2cca861e8e9",
     "artist": "Game Over",
     "title": "When Darkness Falls",
