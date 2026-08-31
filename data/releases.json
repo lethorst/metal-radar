@@ -1,15 +1,5 @@
 [
   {
-    "id": "454e7d8d-2688-4b67-8edf-060bc753d646",
-    "artist": "Five Finger Death Punch",
-    "title": "Legacy",
-    "releaseDate": "2026-07-31",
-    "type": "Album",
-    "genre": "metal, english, offizielle charts",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/454e7d8d-2688-4b67-8edf-060bc753d646"
-  },
-  {
     "id": "36045125-7887-4805-a72d-f4a28f6dc557",
     "artist": "Wolvenfrost",
     "title": "The Last Of All Calamities",
@@ -38,6 +28,16 @@
     "genre": "metal, english, eletronic",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/9545af9e-3e64-44bc-8e51-1e0fdb756571"
+  },
+  {
+    "id": "670624b2-8e91-417e-8b92-6baf9d857254",
+    "artist": "Squalor",
+    "title": "Dark Side of the Sun",
+    "releaseDate": "2026-08-09",
+    "type": "Album",
+    "genre": "thrash metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/670624b2-8e91-417e-8b92-6baf9d857254"
   },
   {
     "id": "fb354c7e-fcc6-481b-a8e8-b11ae8e094b9",
@@ -118,6 +118,16 @@
     "genre": "metal, hardcore punk",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/9fed170f-06f2-44ce-9025-a90d4c2fdc1c"
+  },
+  {
+    "id": "5af67496-03a6-4b38-be40-a268a99bcbf2",
+    "artist": "Miscreance",
+    "title": "Reminiscence",
+    "releaseDate": "2026-08-28",
+    "type": "Album",
+    "genre": "thrash metal, technical death metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/5af67496-03a6-4b38-be40-a268a99bcbf2"
   },
   {
     "id": "bc21a949-4d4b-495a-b589-f2cca861e8e9",
