@@ -72,7 +72,7 @@
   {
     "id": "57912d04-2c1a-4106-aa20-d41a5ce58ea6",
     "artist": "Fen",
-    "title": "Elemental, Part One: Mourning Earth",
+    "title": "ELEMENTAL Part One: MOURNING EARTH",
     "releaseDate": "2026-08-21",
     "type": "Album",
     "genre": "metal, black metal, post-metal",
@@ -120,6 +120,26 @@
     "url": "https://musicbrainz.org/release-group/9fed170f-06f2-44ce-9025-a90d4c2fdc1c"
   },
   {
+    "id": "0f5409e7-23e8-453e-b66d-7862bc7591b6",
+    "artist": "Gorod",
+    "title": "The Ember Gone",
+    "releaseDate": "2026-08-28",
+    "type": "Album",
+    "genre": "technical death metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/0f5409e7-23e8-453e-b66d-7862bc7591b6"
+  },
+  {
+    "id": "2c35c7fd-6447-4225-938c-051b4fbb728d",
+    "artist": "Mastodon",
+    "title": "Marrow Deep",
+    "releaseDate": "2026-08-28",
+    "type": "Album",
+    "genre": "progressive metal, laut.de, plattentests.de",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/2c35c7fd-6447-4225-938c-051b4fbb728d"
+  },
+  {
     "id": "5af67496-03a6-4b38-be40-a268a99bcbf2",
     "artist": "Miscreance",
     "title": "Reminiscence",
@@ -128,6 +148,16 @@
     "genre": "thrash metal, technical death metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/5af67496-03a6-4b38-be40-a268a99bcbf2"
+  },
+  {
+    "id": "f1be73b8-c07b-4ed4-a461-fab237d84e04",
+    "artist": "Wrath Division",
+    "title": "Cremation Grounds Abyss",
+    "releaseDate": "2026-09-06",
+    "type": "Album",
+    "genre": "war metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/f1be73b8-c07b-4ed4-a461-fab237d84e04"
   },
   {
     "id": "bc21a949-4d4b-495a-b589-f2cca861e8e9",
