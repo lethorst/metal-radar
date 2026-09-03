@@ -1,15 +1,5 @@
 [
   {
-    "id": "36045125-7887-4805-a72d-f4a28f6dc557",
-    "artist": "Wolvenfrost",
-    "title": "The Last Of All Calamities",
-    "releaseDate": "2026-08-03",
-    "type": "Album",
-    "genre": "black metal, melodic black metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/36045125-7887-4805-a72d-f4a28f6dc557"
-  },
-  {
     "id": "1276cc8d-9b11-4734-a410-75abee524267",
     "artist": "Dymna Lotva",
     "title": "Vyraj",
@@ -178,6 +168,16 @@
     "genre": "alternative rock, electropop, alternative metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/15ada33f-9e67-4ca9-8b3d-43de84d15187"
+  },
+  {
+    "id": "c26413d0-3c67-4139-bd87-eac41914c7d7",
+    "artist": "Марко Поло",
+    "title": "Король под горой",
+    "releaseDate": "2026-09-28",
+    "type": "Album",
+    "genre": "rock, folk, folk rock",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/c26413d0-3c67-4139-bd87-eac41914c7d7"
   },
   {
     "id": "129c3dcb-818c-4ed8-88fc-2ffca2db8cbd",
