@@ -140,6 +140,26 @@
     "url": "https://musicbrainz.org/release-group/5af67496-03a6-4b38-be40-a268a99bcbf2"
   },
   {
+    "id": "cef77055-549e-4345-8d9d-79de5e697989",
+    "artist": "156/Silence",
+    "title": "From a Distance",
+    "releaseDate": "2026-09-04",
+    "type": "Album",
+    "genre": "shoegaze, industrial metal, punk",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/cef77055-549e-4345-8d9d-79de5e697989"
+  },
+  {
+    "id": "9b4b0b92-669e-42ed-ac01-5deb41b7f7c1",
+    "artist": "Wage War",
+    "title": "Landfall",
+    "releaseDate": "2026-09-04",
+    "type": "Album",
+    "genre": "metalcore, nu metal, alternative metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/9b4b0b92-669e-42ed-ac01-5deb41b7f7c1"
+  },
+  {
     "id": "f1be73b8-c07b-4ed4-a461-fab237d84e04",
     "artist": "Wrath Division",
     "title": "Cremation Grounds Abyss",
