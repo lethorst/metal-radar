@@ -1,15 +1,5 @@
 [
   {
-    "id": "fb354c7e-fcc6-481b-a8e8-b11ae8e094b9",
-    "artist": "Living Weapon",
-    "title": "Death in the Family",
-    "releaseDate": "2026-08-14",
-    "type": "Album",
-    "genre": "metal, metalcore, mathcore",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/fb354c7e-fcc6-481b-a8e8-b11ae8e094b9"
-  },
-  {
     "id": "9b2c4aaf-5450-469b-ba55-85dd41493d0e",
     "artist": "End of Dayz",
     "title": "Nothing But Hate",
@@ -22,7 +12,7 @@
   {
     "id": "82028b22-1685-4fb5-abba-9c3c5c69e303",
     "artist": "Dark Funeral",
-    "title": "A Beast to Praise (live in Stockholm)",
+    "title": "A Beast to Praise",
     "releaseDate": "2026-08-21",
     "type": "Album",
     "genre": "black metal",
