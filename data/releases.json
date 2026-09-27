@@ -190,16 +190,6 @@
     "url": "https://musicbrainz.org/release-group/845b7ece-0b24-41b2-af93-3ef8228a35e0"
   },
   {
-    "id": "768d478d-6f54-4aef-aacb-abf5a41e042a",
-    "artist": "Trhä",
-    "title": "∫um'ad∂ejja o§tovaj",
-    "releaseDate": "2026-09-21",
-    "type": "Album",
-    "genre": "black metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/768d478d-6f54-4aef-aacb-abf5a41e042a"
-  },
-  {
     "id": "67d27388-8a32-42b9-bcb6-70b53429543a",
     "artist": "Trhä",
     "title": "din cëppehen lëvatsë ë∫ nu debu£ gjërima",
@@ -208,6 +198,16 @@
     "genre": "black metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/67d27388-8a32-42b9-bcb6-70b53429543a"
+  },
+  {
+    "id": "768d478d-6f54-4aef-aacb-abf5a41e042a",
+    "artist": "Trhä",
+    "title": "∫um'ad∂ejja o§tovaj",
+    "releaseDate": "2026-09-21",
+    "type": "Album",
+    "genre": "black metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/768d478d-6f54-4aef-aacb-abf5a41e042a"
   },
   {
     "id": "83dc4852-dc44-4276-bcab-e00fe7778efc",
