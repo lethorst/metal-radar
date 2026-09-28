@@ -1,45 +1,5 @@
 [
   {
-    "id": "9fed170f-06f2-44ce-9025-a90d4c2fdc1c",
-    "artist": "Cold Decay",
-    "title": "What Skin Holds",
-    "releaseDate": "2026-08-28",
-    "type": "Album",
-    "genre": "metal, hardcore punk",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/9fed170f-06f2-44ce-9025-a90d4c2fdc1c"
-  },
-  {
-    "id": "0f5409e7-23e8-453e-b66d-7862bc7591b6",
-    "artist": "Gorod",
-    "title": "The Ember Gone",
-    "releaseDate": "2026-08-28",
-    "type": "Album",
-    "genre": "technical death metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/0f5409e7-23e8-453e-b66d-7862bc7591b6"
-  },
-  {
-    "id": "2c35c7fd-6447-4225-938c-051b4fbb728d",
-    "artist": "Mastodon",
-    "title": "Marrow Deep",
-    "releaseDate": "2026-08-28",
-    "type": "Album",
-    "genre": "progressive metal, laut.de, plattentests.de",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/2c35c7fd-6447-4225-938c-051b4fbb728d"
-  },
-  {
-    "id": "5af67496-03a6-4b38-be40-a268a99bcbf2",
-    "artist": "Miscreance",
-    "title": "Reminiscence",
-    "releaseDate": "2026-08-28",
-    "type": "Album",
-    "genre": "thrash metal, technical death metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/5af67496-03a6-4b38-be40-a268a99bcbf2"
-  },
-  {
     "id": "7542b627-cd91-42d1-8bc8-af650fa63d4e",
     "artist": "Sleep",
     "title": "Hempispheres",
@@ -91,7 +51,7 @@
   },
   {
     "id": "acd140cd-d71f-42fc-80b8-01eb03303189",
-    "artist": "Raphael Weinroth-Browne",
+    "artist": "Raphael Weinroth‐Browne",
     "title": "Empyrean",
     "releaseDate": "2026-09-11",
     "type": "Album",
@@ -190,16 +150,6 @@
     "url": "https://musicbrainz.org/release-group/845b7ece-0b24-41b2-af93-3ef8228a35e0"
   },
   {
-    "id": "67d27388-8a32-42b9-bcb6-70b53429543a",
-    "artist": "Trhä",
-    "title": "din cëppehen lëvatsë ë∫ nu debu£ gjërima",
-    "releaseDate": "2026-09-21",
-    "type": "Album",
-    "genre": "black metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/67d27388-8a32-42b9-bcb6-70b53429543a"
-  },
-  {
     "id": "768d478d-6f54-4aef-aacb-abf5a41e042a",
     "artist": "Trhä",
     "title": "∫um'ad∂ejja o§tovaj",
@@ -208,6 +158,16 @@
     "genre": "black metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/768d478d-6f54-4aef-aacb-abf5a41e042a"
+  },
+  {
+    "id": "67d27388-8a32-42b9-bcb6-70b53429543a",
+    "artist": "Trhä",
+    "title": "din cëppehen lëvatsë ë∫ nu debu£ gjërima",
+    "releaseDate": "2026-09-21",
+    "type": "Album",
+    "genre": "black metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/67d27388-8a32-42b9-bcb6-70b53429543a"
   },
   {
     "id": "83dc4852-dc44-4276-bcab-e00fe7778efc",
