@@ -195,7 +195,7 @@
     "title": "Violence In Measure",
     "releaseDate": "2026-09-29",
     "type": "Album",
-    "genre": "thrash metal",
+    "genre": "thrash metal, crossover thrash",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/daaebb82-1569-4f02-91ff-23b5c6abcf8e"
   },
@@ -228,6 +228,16 @@
     "genre": "industrial metal, progressive metal, metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/30a1f7ef-86cc-4411-8567-6362169cc36e"
+  },
+  {
+    "id": "42ddc397-6be5-4f89-b688-9f8d4f5cf187",
+    "artist": "Void Sector Zero",
+    "title": "Dead Space Enigma",
+    "releaseDate": "2026-12-11",
+    "type": "Album",
+    "genre": "progressive metal, thrash metal, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/42ddc397-6be5-4f89-b688-9f8d4f5cf187"
   },
   {
     "id": "7d74072b-375b-409e-a202-cbdaea6f144e",
