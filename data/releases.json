@@ -1,15 +1,5 @@
 [
   {
-    "id": "cef77055-549e-4345-8d9d-79de5e697989",
-    "artist": "156/Silence",
-    "title": "From a Distance",
-    "releaseDate": "2026-09-04",
-    "type": "Album",
-    "genre": "shoegaze, industrial metal, punk",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/cef77055-549e-4345-8d9d-79de5e697989"
-  },
-  {
     "id": "f1be73b8-c07b-4ed4-a461-fab237d84e04",
     "artist": "Wrath Division",
     "title": "Cremation Grounds Abyss",
@@ -72,7 +62,7 @@
   {
     "id": "8ec7ac16-5003-42d3-9f5e-1475f9a9d428",
     "artist": "Anthrax",
-    "title": "Cursum Perficio",
+    "title": "Cursum perficio",
     "releaseDate": "2026-09-18",
     "type": "Album",
     "genre": "heavy metal, thrash metal, metal",
