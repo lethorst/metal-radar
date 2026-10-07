@@ -1,15 +1,5 @@
 [
   {
-    "id": "f1be73b8-c07b-4ed4-a461-fab237d84e04",
-    "artist": "Wrath Division",
-    "title": "Cremation Grounds Abyss",
-    "releaseDate": "2026-09-06",
-    "type": "Album",
-    "genre": "war metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/f1be73b8-c07b-4ed4-a461-fab237d84e04"
-  },
-  {
     "id": "6e5adec0-b877-4768-9bb5-1f916dc006fa",
     "artist": "Paenil Era",
     "title": "A Wilting Fountain",
@@ -248,6 +238,16 @@
     "genre": "metalcore, nu metal, alternative metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/9b4b0b92-669e-42ed-ac01-5deb41b7f7c1"
+  },
+  {
+    "id": "b07a7146-1064-4aea-8311-42d05a81917a",
+    "artist": "Prisoner of War",
+    "title": "Pro-Political Violence",
+    "releaseDate": "2026-10-16",
+    "type": "Album",
+    "genre": "death metal, brutal death metal, slam death metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/b07a7146-1064-4aea-8311-42d05a81917a"
   },
   {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
