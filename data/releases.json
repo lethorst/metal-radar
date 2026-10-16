@@ -290,9 +290,19 @@
     "url": "https://musicbrainz.org/release-group/1bc9bf82-39b0-42cb-ba8f-e22947cd4dfb"
   },
   {
+    "id": "9f24dc7d-2bf6-44b8-9af1-e68b0d64cab2",
+    "artist": "The Gathering",
+    "title": "Echoes of Mandylion",
+    "releaseDate": "2026-10-12",
+    "type": "Album",
+    "genre": "alternative rock, gothic metal, doom metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/9f24dc7d-2bf6-44b8-9af1-e68b0d64cab2"
+  },
+  {
     "id": "b07a7146-1064-4aea-8311-42d05a81917a",
     "artist": "Prisoner of War",
-    "title": "Pro-Political Violence",
+    "title": "PRO-POLITICAL VIOLENCE",
     "releaseDate": "2026-10-16",
     "type": "Album",
     "genre": "death metal, brutal death metal, slam death metal",
