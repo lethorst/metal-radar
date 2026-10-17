@@ -1,15 +1,5 @@
 [
   {
-    "id": "694253ab-0238-41ce-8fb3-dc77a785fb22",
-    "artist": "Crud",
-    "title": "Human Decency",
-    "releaseDate": "2026-09-16",
-    "type": "Album",
-    "genre": "sludge metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/694253ab-0238-41ce-8fb3-dc77a785fb22"
-  },
-  {
     "id": "ca17d53d-0bf0-4d9d-aabd-7a5fefc305e7",
     "artist": "Sub Ruinam",
     "title": "Sub Ruinam III",
@@ -128,6 +118,16 @@
     "genre": "black metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/67d27388-8a32-42b9-bcb6-70b53429543a"
+  },
+  {
+    "id": "0a1de524-d9f7-400b-9af1-f8b0c21339c3",
+    "artist": "WDHellS OnLineKILLER",
+    "title": "𝐖𝐃𝐇𝐞𝐥𝐥𝐒 : 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞𝐏𝐨𝐫𝐭𝐫𝐚𝐢𝐭",
+    "releaseDate": "2026-09-25",
+    "type": "Album",
+    "genre": "industrial, instrumental, ambient",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/0a1de524-d9f7-400b-9af1-f8b0c21339c3"
   },
   {
     "id": "83dc4852-dc44-4276-bcab-e00fe7778efc",
