@@ -1,15 +1,5 @@
 [
   {
-    "id": "ca17d53d-0bf0-4d9d-aabd-7a5fefc305e7",
-    "artist": "Sub Ruinam",
-    "title": "Sub Ruinam III",
-    "releaseDate": "2026-09-17",
-    "type": "Album",
-    "genre": "sludge metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/ca17d53d-0bf0-4d9d-aabd-7a5fefc305e7"
-  },
-  {
     "id": "8ec7ac16-5003-42d3-9f5e-1475f9a9d428",
     "artist": "Anthrax",
     "title": "Cursum perficio",
@@ -100,16 +90,6 @@
     "url": "https://musicbrainz.org/release-group/e4e046da-b559-45eb-881e-832945ccdc86"
   },
   {
-    "id": "768d478d-6f54-4aef-aacb-abf5a41e042a",
-    "artist": "Trhä",
-    "title": "∫um'ad∂ejja o§tovaj",
-    "releaseDate": "2026-09-21",
-    "type": "Album",
-    "genre": "black metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/768d478d-6f54-4aef-aacb-abf5a41e042a"
-  },
-  {
     "id": "67d27388-8a32-42b9-bcb6-70b53429543a",
     "artist": "Trhä",
     "title": "din cëppehen lëvatsë ë∫ nu debu£ gjërima",
@@ -118,6 +98,16 @@
     "genre": "black metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/67d27388-8a32-42b9-bcb6-70b53429543a"
+  },
+  {
+    "id": "768d478d-6f54-4aef-aacb-abf5a41e042a",
+    "artist": "Trhä",
+    "title": "∫um’ad∂ejja o§tovaj",
+    "releaseDate": "2026-09-21",
+    "type": "Album",
+    "genre": "black metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/768d478d-6f54-4aef-aacb-abf5a41e042a"
   },
   {
     "id": "0a1de524-d9f7-400b-9af1-f8b0c21339c3",
@@ -298,6 +288,16 @@
     "genre": "alternative rock, gothic metal, doom metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/9f24dc7d-2bf6-44b8-9af1-e68b0d64cab2"
+  },
+  {
+    "id": "446e691c-d0be-4225-9654-0f24e4e174d9",
+    "artist": "Insomnium",
+    "title": "Netherworlds",
+    "releaseDate": "2026-10-16",
+    "type": "Album",
+    "genre": "melodic death metal, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/446e691c-d0be-4225-9654-0f24e4e174d9"
   },
   {
     "id": "b07a7146-1064-4aea-8311-42d05a81917a",
