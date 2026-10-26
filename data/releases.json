@@ -1,25 +1,5 @@
 [
   {
-    "id": "0a1de524-d9f7-400b-9af1-f8b0c21339c3",
-    "artist": "WDHellS OnLineKILLER",
-    "title": "𝐖𝐃𝐇𝐞𝐥𝐥𝐒 : 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞𝐏𝐨𝐫𝐭𝐫𝐚𝐢𝐭",
-    "releaseDate": "2026-09-25",
-    "type": "Album",
-    "genre": "industrial, instrumental, ambient",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/0a1de524-d9f7-400b-9af1-f8b0c21339c3"
-  },
-  {
-    "id": "83dc4852-dc44-4276-bcab-e00fe7778efc",
-    "artist": "Мегамозг",
-    "title": "Война и Мир",
-    "releaseDate": "2026-09-25",
-    "type": "Album",
-    "genre": "nu metal, alternative metal, rapcore",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/83dc4852-dc44-4276-bcab-e00fe7778efc"
-  },
-  {
     "id": "c26413d0-3c67-4139-bd87-eac41914c7d7",
     "artist": "Марко Поло",
     "title": "Король под горой",
@@ -210,6 +190,16 @@
     "url": "https://musicbrainz.org/release-group/b07a7146-1064-4aea-8311-42d05a81917a"
   },
   {
+    "id": "e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b",
+    "artist": "Iommi",
+    "title": "From the Dark",
+    "releaseDate": "2026-10-23",
+    "type": "Album",
+    "genre": "heavy metal, metal, doom metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b"
+  },
+  {
     "id": "3a52c2ee-6634-44f7-bf56-1462753e08f3",
     "artist": "Polyphia",
     "title": "BE NOT AFRAID",
@@ -218,16 +208,6 @@
     "genre": "progressive metal, trap edm, future bass",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/3a52c2ee-6634-44f7-bf56-1462753e08f3"
-  },
-  {
-    "id": "e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b",
-    "artist": "Tony Iommi",
-    "title": "From the Dark",
-    "releaseDate": "2026-10-23",
-    "type": "Album",
-    "genre": "heavy metal, metal, doom metal",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b"
   },
   {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
