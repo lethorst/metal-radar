@@ -200,10 +200,20 @@
     "url": "https://musicbrainz.org/release-group/3a52c2ee-6634-44f7-bf56-1462753e08f3"
   },
   {
+    "id": "26f8f3c7-eb4f-459c-931e-9f2c8d594b99",
+    "artist": "Various Artists",
+    "title": "Nordic Power Rock and Roll Vol.4.",
+    "releaseDate": "2026-10-30",
+    "type": "Album",
+    "genre": "rock, hardcore, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/26f8f3c7-eb4f-459c-931e-9f2c8d594b99"
+  },
+  {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
     "artist": "Northlane",
     "title": "Anemoia",
-    "releaseDate": "2026-10-30",
+    "releaseDate": "2026-11-27",
     "type": "Album",
     "genre": "electronic, industrial metal, progressive metal",
     "source": "MusicBrainz",
