@@ -1,15 +1,5 @@
 [
   {
-    "id": "c2e8b786-628d-4ee2-b7f8-78d3aa47e958",
-    "artist": "жатка",
-    "title": "get lost | find yourself",
-    "releaseDate": "2026-10-03",
-    "type": "Album",
-    "genre": "downtempo, shoegaze, experimental",
-    "source": "MusicBrainz",
-    "url": "https://musicbrainz.org/release-group/c2e8b786-628d-4ee2-b7f8-78d3aa47e958"
-  },
-  {
     "id": "7df9cdc7-46ff-4117-a9e6-c75a259a8366",
     "artist": "HateSphere",
     "title": "Guillotine",
@@ -148,6 +138,16 @@
     "genre": "rock, hardcore, metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/26f8f3c7-eb4f-459c-931e-9f2c8d594b99"
+  },
+  {
+    "id": "afddbaf2-fab3-497a-84e0-17aa39d4be40",
+    "artist": "Street Breed",
+    "title": "Instinct",
+    "releaseDate": "2026-10-31",
+    "type": "Album",
+    "genre": "nu metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/afddbaf2-fab3-497a-84e0-17aa39d4be40"
   },
   {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
