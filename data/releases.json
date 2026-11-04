@@ -150,6 +150,16 @@
     "url": "https://musicbrainz.org/release-group/afddbaf2-fab3-497a-84e0-17aa39d4be40"
   },
   {
+    "id": "ef8052bb-8776-4541-bbd2-0e4afa5b9c5a",
+    "artist": "Hexenhaus",
+    "title": "At the Spiral's End",
+    "releaseDate": "2026-11-02",
+    "type": "Album",
+    "genre": "metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/ef8052bb-8776-4541-bbd2-0e4afa5b9c5a"
+  },
+  {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
     "artist": "Northlane",
     "title": "Anemoia",
