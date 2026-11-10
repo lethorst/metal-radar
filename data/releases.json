@@ -92,7 +92,7 @@
   {
     "id": "4303d0ed-132d-4c59-9563-c516ff85537f",
     "artist": "Doombia",
-    "title": "Doombia Vol. 2: El Diablo Que Conoces",
+    "title": "Doombia, Vol. 2: El Diablo que conoces",
     "releaseDate": "2026-11-06",
     "type": "Album",
     "genre": "doom metal, psychedelic rock, alternative metal",
@@ -128,6 +128,16 @@
     "genre": "electronic, industrial metal, progressive metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/30a1f7ef-86cc-4411-8567-6362169cc36e"
+  },
+  {
+    "id": "365437a0-fc33-4ae3-8188-adc8ccc972bf",
+    "artist": "PeelingFlesh",
+    "title": "PeelingFlesh",
+    "releaseDate": "2026-11-27",
+    "type": "Album",
+    "genre": "slam death metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/365437a0-fc33-4ae3-8188-adc8ccc972bf"
   },
   {
     "id": "42ddc397-6be5-4f89-b688-9f8d4f5cf187",
