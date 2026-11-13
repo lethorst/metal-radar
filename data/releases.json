@@ -20,6 +20,16 @@
     "url": "https://musicbrainz.org/release-group/b07a7146-1064-4aea-8311-42d05a81917a"
   },
   {
+    "id": "319a9696-951e-4d23-9934-5674bcb628b2",
+    "artist": "Forbidden",
+    "title": "Forbidden",
+    "releaseDate": "2026-10-23",
+    "type": "Album",
+    "genre": "metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/319a9696-951e-4d23-9934-5674bcb628b2"
+  },
+  {
     "id": "e6d04742-1d4b-4a85-bc4e-01ec9db6cc9b",
     "artist": "Iommi",
     "title": "From the Dark",
@@ -90,6 +100,26 @@
     "url": "https://musicbrainz.org/release-group/aeae1a98-5a80-412b-b3f5-c0c1d6f12d18"
   },
   {
+    "id": "b918751c-4ff4-453e-95df-9b1f86c9d928",
+    "artist": "Hatebreed",
+    "title": "Fatal Paradox",
+    "releaseDate": "2026-11-06",
+    "type": "Album",
+    "genre": "metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/b918751c-4ff4-453e-95df-9b1f86c9d928"
+  },
+  {
+    "id": "ba960708-8bc3-4158-a4a9-50c4e745a0d9",
+    "artist": "Kingdom of Giants",
+    "title": "Usurper",
+    "releaseDate": "2026-11-13",
+    "type": "Album",
+    "genre": "rock, electronic, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/ba960708-8bc3-4158-a4a9-50c4e745a0d9"
+  },
+  {
     "id": "3987e451-96e7-41ca-90c7-d3b1c0bf5b4f",
     "artist": "Oreamnos",
     "title": "In Ruins",
@@ -98,6 +128,26 @@
     "genre": "death metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/3987e451-96e7-41ca-90c7-d3b1c0bf5b4f"
+  },
+  {
+    "id": "2b929309-39b0-4854-9f96-e8fb461452d5",
+    "artist": "Parius",
+    "title": "Alchestronomy",
+    "releaseDate": "2026-11-13",
+    "type": "Album",
+    "genre": "progressive metal, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/2b929309-39b0-4854-9f96-e8fb461452d5"
+  },
+  {
+    "id": "00a3a384-c3fe-4890-84a3-fa9c8a542ed9",
+    "artist": "The Body",
+    "title": "Whole Wide World",
+    "releaseDate": "2026-11-13",
+    "type": "Album",
+    "genre": "digital hardcore, industrial, metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/00a3a384-c3fe-4890-84a3-fa9c8a542ed9"
   },
   {
     "id": "30a1f7ef-86cc-4411-8567-6362169cc36e",
