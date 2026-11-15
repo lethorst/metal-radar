@@ -50,6 +50,16 @@
     "url": "https://musicbrainz.org/release-group/3a52c2ee-6634-44f7-bf56-1462753e08f3"
   },
   {
+    "id": "6e67a50c-3386-4380-9cc4-990345ef9faf",
+    "artist": "Pallas",
+    "title": "A Song for Tomorrow",
+    "releaseDate": "2026-10-30",
+    "type": "Album",
+    "genre": "progressive rock, progressive metal, art rock",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/6e67a50c-3386-4380-9cc4-990345ef9faf"
+  },
+  {
     "id": "26f8f3c7-eb4f-459c-931e-9f2c8d594b99",
     "artist": "Various Artists",
     "title": "Nordic Power Rock and Roll Vol.4.",
@@ -148,6 +158,16 @@
     "genre": "digital hardcore, industrial, metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/00a3a384-c3fe-4890-84a3-fa9c8a542ed9"
+  },
+  {
+    "id": "604243d3-d6af-436a-9db7-d2ef5e0f5704",
+    "artist": "Down",
+    "title": "Volume V",
+    "releaseDate": "2026-11-20",
+    "type": "Album",
+    "genre": "metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/604243d3-d6af-436a-9db7-d2ef5e0f5704"
   },
   {
     "id": "84ebcd68-1947-4cda-b9d3-8c2253bf8e0e",
