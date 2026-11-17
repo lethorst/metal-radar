@@ -30,6 +30,26 @@
     "url": "https://musicbrainz.org/release-group/3a52c2ee-6634-44f7-bf56-1462753e08f3"
   },
   {
+    "id": "ce15dac0-658a-4488-89fa-4f9f23fc9038",
+    "artist": "The Blood Mountain Black Metal Choir",
+    "title": "Songs From a Dying Empire",
+    "releaseDate": "2026-10-23",
+    "type": "Album",
+    "genre": "metal, black metal, sludge metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/ce15dac0-658a-4488-89fa-4f9f23fc9038"
+  },
+  {
+    "id": "3143fa98-aa3a-4fa5-bcc2-5b02bb4f91d1",
+    "artist": "Cryptorium",
+    "title": "Through the Bowels of Ceaseless Dissonance",
+    "releaseDate": "2026-10-30",
+    "type": "Album",
+    "genre": "death metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/3143fa98-aa3a-4fa5-bcc2-5b02bb4f91d1"
+  },
+  {
     "id": "6e67a50c-3386-4380-9cc4-990345ef9faf",
     "artist": "Pallas",
     "title": "A Song for Tomorrow",
@@ -68,6 +88,16 @@
     "genre": "metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/ef8052bb-8776-4541-bbd2-0e4afa5b9c5a"
+  },
+  {
+    "id": "594649bf-9978-4930-b7e3-b27fb0354b9f",
+    "artist": "Besotten",
+    "title": "Eye of the Monolithicrypt",
+    "releaseDate": "2026-11-06",
+    "type": "Album",
+    "genre": "death metal, death doom metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/594649bf-9978-4930-b7e3-b27fb0354b9f"
   },
   {
     "id": "4303d0ed-132d-4c59-9563-c516ff85537f",
@@ -188,6 +218,16 @@
     "genre": "progressive metal, thrash metal, metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/42ddc397-6be5-4f89-b688-9f8d4f5cf187"
+  },
+  {
+    "id": "6842d195-2bbc-48a7-9aa4-0ca505a4a22d",
+    "artist": "Danimal Cannon",
+    "title": "Elder Evil",
+    "releaseDate": "2027-01-15",
+    "type": "Album",
+    "genre": "electronic, metal, progressive",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/6842d195-2bbc-48a7-9aa4-0ca505a4a22d"
   },
   {
     "id": "7d74072b-375b-409e-a202-cbdaea6f144e",
