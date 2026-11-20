@@ -40,6 +40,16 @@
     "url": "https://musicbrainz.org/release-group/ce15dac0-658a-4488-89fa-4f9f23fc9038"
   },
   {
+    "id": "27c52c20-96c7-492e-a4c3-d6a0cccda796",
+    "artist": "Windwaker",
+    "title": "smile, you're on camera.",
+    "releaseDate": "2026-10-23",
+    "type": "Album",
+    "genre": "rock, electronic, alternative rock",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/27c52c20-96c7-492e-a4c3-d6a0cccda796"
+  },
+  {
     "id": "3143fa98-aa3a-4fa5-bcc2-5b02bb4f91d1",
     "artist": "Cryptorium",
     "title": "Through the Bowels of Ceaseless Dissonance",
@@ -110,6 +120,16 @@
     "url": "https://musicbrainz.org/release-group/4303d0ed-132d-4c59-9563-c516ff85537f"
   },
   {
+    "id": "194c804e-bdb3-4abd-bd66-0686718e916e",
+    "artist": "Dreamspeed",
+    "title": "Demo",
+    "releaseDate": "2026-11-06",
+    "type": "Album",
+    "genre": "metal, black metal, perth",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/194c804e-bdb3-4abd-bd66-0686718e916e"
+  },
+  {
     "id": "aeae1a98-5a80-412b-b3f5-c0c1d6f12d18",
     "artist": "E-L-R",
     "title": "Atropa",
@@ -178,6 +198,16 @@
     "genre": "metal",
     "source": "MusicBrainz",
     "url": "https://musicbrainz.org/release-group/604243d3-d6af-436a-9db7-d2ef5e0f5704"
+  },
+  {
+    "id": "8c77ab39-db4a-4195-a92d-1b8b23b6cfbb",
+    "artist": "Night Rider",
+    "title": "Fatebringer",
+    "releaseDate": "2026-11-20",
+    "type": "Album",
+    "genre": "rock, electronic, progressive metal",
+    "source": "MusicBrainz",
+    "url": "https://musicbrainz.org/release-group/8c77ab39-db4a-4195-a92d-1b8b23b6cfbb"
   },
   {
     "id": "84ebcd68-1947-4cda-b9d3-8c2253bf8e0e",
